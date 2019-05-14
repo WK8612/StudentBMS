@@ -27,4 +27,4 @@
 
 ## 预览
 
-![](https://wk8612.github.io/StudentBMS/)
+![](https://wk8612.github.io/StudentBMS/static/view.jpg)
